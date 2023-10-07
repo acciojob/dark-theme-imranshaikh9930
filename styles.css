@@ -9,6 +9,10 @@
 #swap{
   outline:0;
 }
+.button_day {
+    background-color: #007bff; /* Light theme button background color */
+    color: #fff; /* Light theme button text color */
+}
 
 .button_night{
   background-color:blue;
